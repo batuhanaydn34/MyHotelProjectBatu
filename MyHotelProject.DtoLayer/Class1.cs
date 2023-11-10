@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HotelProject.EntityLayer
+namespace MyHotelProject.DtoLayer
 {
     public class Class1
     {

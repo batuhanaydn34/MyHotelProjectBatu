@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.DataAccessLaye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.BusinessLayer", "HotelProject.BusinessLayer\HotelProject.BusinessLayer.csproj", "{DA0C2E65-DF71-4A7E-AF25-F3675A5E5EC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHotelProject.DtoLayer", "MyHotelProject.DtoLayer\MyHotelProject.DtoLayer.csproj", "{2B343494-88ED-42E1-B191-A1B79DD573E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHotelProject.WebUI", "MyHotelProject.WebUI\MyHotelProject.WebUI.csproj", "{ACD557D1-9842-4ACF-B1B7-A179D1732B52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DA0C2E65-DF71-4A7E-AF25-F3675A5E5EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0C2E65-DF71-4A7E-AF25-F3675A5E5EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0C2E65-DF71-4A7E-AF25-F3675A5E5EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B343494-88ED-42E1-B191-A1B79DD573E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B343494-88ED-42E1-B191-A1B79DD573E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B343494-88ED-42E1-B191-A1B79DD573E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B343494-88ED-42E1-B191-A1B79DD573E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD557D1-9842-4ACF-B1B7-A179D1732B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD557D1-9842-4ACF-B1B7-A179D1732B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD557D1-9842-4ACF-B1B7-A179D1732B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD557D1-9842-4ACF-B1B7-A179D1732B52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +60,8 @@ Global
 		{F3596FEC-B92C-45F3-8951-A4FD11A91FA9} = {4A654A1D-18BB-4325-95D5-C8BAB272C17A}
 		{FA1A3F55-42AD-4A94-9FE3-2AF9EA61B0E2} = {4A654A1D-18BB-4325-95D5-C8BAB272C17A}
 		{DA0C2E65-DF71-4A7E-AF25-F3675A5E5EC3} = {4A654A1D-18BB-4325-95D5-C8BAB272C17A}
+		{2B343494-88ED-42E1-B191-A1B79DD573E2} = {4A654A1D-18BB-4325-95D5-C8BAB272C17A}
+		{ACD557D1-9842-4ACF-B1B7-A179D1732B52} = {D1C86148-354D-4332-AB38-5BF5FD8B9716}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {71B6AC53-6838-4D9A-937E-9FF9AB61ACF2}
